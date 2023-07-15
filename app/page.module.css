@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    gap: 30px;
+}
+
+.sidebar{
+    flex: 4
+}
